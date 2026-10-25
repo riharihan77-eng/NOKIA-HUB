@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for adding a realistic retro Nokia battery status indicator in the top-right corner of the LCD screen with progressive depletion, flashing low-battery alert, and authentic Nokia low-battery warning beeps.",
+  "updatedAt":  "2026-10-25T05:06:45.827152138Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

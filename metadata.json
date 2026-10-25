@@ -1,0 +1,6 @@
+{
+  "name": "Nokia Snake Arcade",
+  "description": "Retro monochrome LCD Snake arcade game for Android and desktop with authentic dot-matrix display, chiptune sound, speed boosts, and obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
